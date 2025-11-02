@@ -1,5 +1,6 @@
 import random
 from file1 import greet, area_of_circle, safe_divide
+#from file1 import *
 
 # use custom functions
 print(greet("Rahul"))

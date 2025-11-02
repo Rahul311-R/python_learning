@@ -1,5 +1,7 @@
-x = 322
-y = 456
+import random
+x = random.randint(1,100)
+y = random.randint(1,100)
+print(x,y)
 print(x>y)
 print(x<y)
 print(x!=y)

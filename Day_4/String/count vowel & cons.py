@@ -1,8 +1,8 @@
-str = input()
+st = input()
 v = 0
 c = 0
 vo = "aeiouAEIOU"
-for ch in str:
+for ch in st:
     if ch.isalpha():
         if ch in vo:
             v += 1

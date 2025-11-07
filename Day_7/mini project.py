@@ -12,8 +12,6 @@ class Vehicle(ABC):
 
     def info(self):
         return f"Brand: {self._brand}, Model: {self._model}"
-
-
 # Child class 1
 class Car(Vehicle):
     wheels = 4    # class variable

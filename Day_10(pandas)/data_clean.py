@@ -18,4 +18,7 @@ d = pd.read_csv("data.csv")
 #fix datatype
 #df["Legendary"] = df["Legendary"].astype (bool)
 
+# 6. Remove duplicate values
+d = d.drop_duplicates ( )
+
 print(d)

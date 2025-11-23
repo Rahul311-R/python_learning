@@ -1,12 +1,16 @@
-import pandas as pd
 import matplotlib.pyplot as plt
 
-data = {
-    "region": ["North", "South", "East", "West", "North", "South", "East", "West"],
-    "sales":  [1200, 700, 950, 400, 1500, 900, 1100, 500],
-    "profit": [300, 150, 200, 50, 400, 180, 220, 60]
-}
+x = [20,21,22,23,24,25]
+y1 = [3,5,1,9,6,7]
+y2 = [4,6,4,3,3,3]
 
-df = pd.DataFrame(data)
-
-print(df)
+style1 = dict(marker = ".",
+         ms = 20,mfc = "black",
+         mec = "red",ls = "dashdot",
+         lw = 3,c = "cyan")
+style2 = dict(marker = ">",mfc = "blue"
+              ,mec = "green",c = "red",
+              ls = "dotted",ms = 10,lw =2)
+plt.plot(x,y1,**style1)
+plt.plot(x,y2,**style2)
+plt.show()

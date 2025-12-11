@@ -1,0 +1,8 @@
+f = open("doc2.txt","r")
+d = f.read()
+line1 = f.readline()
+lines = f.readlines()
+print(d)
+print(line1)
+print(lines)
+f.close()

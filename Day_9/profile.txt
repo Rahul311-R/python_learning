@@ -1,3 +1,0 @@
-Name: Rahul
-College: VSB Engineering
-Age: 21

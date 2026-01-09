@@ -10,4 +10,5 @@ de = q.popleft()
 print(de)
 print(q)
 fr = q[0]
+
 print(fr)

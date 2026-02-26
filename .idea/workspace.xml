@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1e85494-31c5-4309-b395-0d31094a824c" name="Changes" comment="Restart" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rahul311-R&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Rahul311-R/python_learning.git&quot;,
+    &quot;accountId&quot;: &quot;5c8ed9c7-d8fe-4619-bf87-7a2186c95e08&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day_11(matplotlib)/matplot2.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34aqf2Frtdv798hEHIgb9DP6wnp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Advanced String Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Alphabetic_Order_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Arithmetic Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Checking &amp; Searching.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Method Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nested If.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.and-or.executor&quot;: &quot;Run&quot;,
+    &quot;Python.area_tri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ascii.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bar_chart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.break Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.break-checkpoint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.break1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calendar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class&amp;obj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.continue Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count vowel &amp; cons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_clean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_frame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.enumerate1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.even_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fact.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.freq count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functools.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functools1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ifelse1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inter_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.km_to_mile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lar_arr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.len_than_k_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplot1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplot2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monotonic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mul_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.occurrences_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pie_chart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rahul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readlin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.realines1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rotate_arr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scatter_plot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smal_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_arr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_n.executor&quot;: &quot;Run&quot;,
+    &quot;Python.summa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swap_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tranpose_mat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type cast.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zip1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/PycharmProjects/python_learning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\python_learning\Day_11(matplotlib)" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\python_learning\Day_5\file_handle" />
+      <recent name="C:\Users\DELL\PycharmProjects\python_learning\Day_1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e85494-31c5-4309-b395-0d31094a824c" name="Changes" comment="" />
+      <created>1761462130100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761462130100</updated>
+    </task>
+    <task id="LOCAL-00001" summary="26/10/2025">
+      <option name="closed" value="true" />
+      <created>1761462269928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761462269928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="26/10/2025">
+      <option name="closed" value="true" />
+      <created>1761463071731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761463071731</updated>
+    </task>
+    <task id="LOCAL-00003" summary="26/10/2025">
+      <option name="closed" value="true" />
+      <created>1761463125718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761463125718</updated>
+    </task>
+    <task id="LOCAL-00004" summary="28/10/2025">
+      <option name="closed" value="true" />
+      <created>1761660551510</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761660551510</updated>
+    </task>
+    <task id="LOCAL-00005" summary="28/10/2025">
+      <option name="closed" value="true" />
+      <created>1761661776245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761661776245</updated>
+    </task>
+    <task id="LOCAL-00006" summary="30/10/2025">
+      <option name="closed" value="true" />
+      <created>1761806374556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761806374556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="02/11/2025">
+      <option name="closed" value="true" />
+      <created>1762067488041</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762067488041</updated>
+    </task>
+    <task id="LOCAL-00008" summary="02/11/2025">
+      <option name="closed" value="true" />
+      <created>1762068190492</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762068190492</updated>
+    </task>
+    <task id="LOCAL-00009" summary="04/11/2025">
+      <option name="closed" value="true" />
+      <created>1762237791539</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762237791539</updated>
+    </task>
+    <task id="LOCAL-00010" summary="08/11/2025">
+      <option name="closed" value="true" />
+      <created>1762559544529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762559544529</updated>
+    </task>
+    <task id="LOCAL-00011" summary="18/11/2025">
+      <option name="closed" value="true" />
+      <created>1763424942043</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763424942043</updated>
+    </task>
+    <task id="LOCAL-00012" summary="21/11/2025">
+      <option name="closed" value="true" />
+      <created>1763706000429</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1763706000429</updated>
+    </task>
+    <task id="LOCAL-00013" summary="21/11/2025">
+      <option name="closed" value="true" />
+      <created>1763706143948</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1763706143948</updated>
+    </task>
+    <task id="LOCAL-00014" summary="23/11/2025">
+      <option name="closed" value="true" />
+      <created>1763903371009</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1763903371009</updated>
+    </task>
+    <task id="LOCAL-00015" summary="24/11/2025">
+      <option name="closed" value="true" />
+      <created>1763943504135</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763943504135</updated>
+    </task>
+    <task id="LOCAL-00016" summary="25/11/2025">
+      <option name="closed" value="true" />
+      <created>1764026990031</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764026990031</updated>
+    </task>
+    <task id="LOCAL-00017" summary="09/12/2025">
+      <option name="closed" value="true" />
+      <created>1765245297420</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765245297420</updated>
+    </task>
+    <task id="LOCAL-00018" summary="09/12/2025">
+      <option name="closed" value="true" />
+      <created>1765245463965</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765245463965</updated>
+    </task>
+    <task id="LOCAL-00019" summary="09/12/2025">
+      <option name="closed" value="true" />
+      <created>1765246155443</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1765246155443</updated>
+    </task>
+    <task id="LOCAL-00020" summary="09/12/2025">
+      <option name="closed" value="true" />
+      <created>1765258740159</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1765258740159</updated>
+    </task>
+    <task id="LOCAL-00021" summary="10/12/2025">
+      <option name="closed" value="true" />
+      <created>1765325074807</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765325074807</updated>
+    </task>
+    <task id="LOCAL-00022" summary="11/12/2025">
+      <option name="closed" value="true" />
+      <created>1765408676282</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765408676282</updated>
+    </task>
+    <task id="LOCAL-00023" summary="28/12/2025">
+      <option name="closed" value="true" />
+      <created>1766928141361</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1766928141361</updated>
+    </task>
+    <task id="LOCAL-00024" summary="28/12/2025">
+      <option name="closed" value="true" />
+      <created>1766928976903</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1766928976903</updated>
+    </task>
+    <task id="LOCAL-00025" summary="29/12/2025">
+      <option name="closed" value="true" />
+      <created>1766982964540</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1766982964540</updated>
+    </task>
+    <task id="LOCAL-00026" summary="29/12/2025">
+      <option name="closed" value="true" />
+      <created>1766991715028</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1766991715028</updated>
+    </task>
+    <task id="LOCAL-00027" summary="02/01/2026">
+      <option name="closed" value="true" />
+      <created>1767340262615</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1767340262615</updated>
+    </task>
+    <task id="LOCAL-00028" summary="16/01/2026">
+      <option name="closed" value="true" />
+      <created>1768546562314</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1768546562314</updated>
+    </task>
+    <task id="LOCAL-00029" summary="18/01/2026">
+      <option name="closed" value="true" />
+      <created>1768716918180</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1768716918180</updated>
+    </task>
+    <task id="LOCAL-00030" summary="18/01/2026">
+      <option name="closed" value="true" />
+      <created>1768723921038</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1768723921038</updated>
+    </task>
+    <task id="LOCAL-00031" summary="26/01/2026">
+      <option name="closed" value="true" />
+      <created>1769399155944</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1769399155944</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Restart">
+      <option name="closed" value="true" />
+      <created>1772114767785</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1772114767785</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="26/10/2025" />
+    <MESSAGE value="28/10/2025" />
+    <MESSAGE value="30/10/2025" />
+    <MESSAGE value="02/11/2025" />
+    <MESSAGE value="04/11/2025" />
+    <MESSAGE value="08/11/2025" />
+    <MESSAGE value="18/11/2025" />
+    <MESSAGE value="21/11/2025" />
+    <MESSAGE value="23/11/2025" />
+    <MESSAGE value="24/11/2025" />
+    <MESSAGE value="25/11/2025" />
+    <MESSAGE value="09/12/2025" />
+    <MESSAGE value="10/12/2025" />
+    <MESSAGE value="11/12/2025" />
+    <MESSAGE value="28/12/2025" />
+    <MESSAGE value="29/12/2025" />
+    <MESSAGE value="02/01/2026" />
+    <MESSAGE value="16/01/2026" />
+    <MESSAGE value="18/01/2026" />
+    <MESSAGE value="26/01/2026" />
+    <MESSAGE value="Restart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restart" />
+  </component>
+</project>

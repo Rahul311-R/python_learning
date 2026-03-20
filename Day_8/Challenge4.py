@@ -1,4 +1,4 @@
-nums = [3, 7, 1, 9, 4, 9, 6, 2]
+nums = list(map(int,input().split()))
 
 lar = nums[0]
 sec = nums[0]

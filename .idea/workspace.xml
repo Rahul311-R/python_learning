@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1e85494-31c5-4309-b395-0d31094a824c" name="Changes" comment="19/03/2026">
-      <change afterPath="$PROJECT_DIR$/Day_7/Challenge1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7/Challenge2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7/Challenge3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_8/Challenge1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_8/Challenge2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_8/Challenge3.py" afterDir="false" />
+    <list default="true" id="a1e85494-31c5-4309-b395-0d31094a824c" name="Changes" comment="20/03/2026">
+      <change afterPath="$PROJECT_DIR$/Day_8/Challenge6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_8/Challenge7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_8/Challenge8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_8/Challenge9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/Challenge4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_8/Challenge4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +71,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
+    "Notification.DoNotAsk-WindowsDefender": "true",
     "Python.Advanced String Methods.executor": "Run",
     "Python.Alphabetic_Order_str.executor": "Run",
     "Python.Arithmetic Operators.executor": "Run",
@@ -80,6 +81,10 @@
     "Python.Challenge1.executor": "Run",
     "Python.Challenge2.executor": "Run",
     "Python.Challenge3.executor": "Run",
+    "Python.Challenge4.executor": "Run",
+    "Python.Challenge6.executor": "Run",
+    "Python.Challenge7.executor": "Run",
+    "Python.Challenge8.executor": "Run",
     "Python.Checking & Searching.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.Method Overriding.executor": "Run",
@@ -190,6 +195,7 @@
     "Python.summa.executor": "Run",
     "Python.swap_2.executor": "Run",
     "Python.table.executor": "Run",
+    "Python.task15.executor": "Run",
     "Python.tranpose_mat.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.tuple1.executor": "Run",
@@ -506,7 +512,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772114904334</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="20/03/2026">
+      <option name="closed" value="true" />
+      <created>1773964280109</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1773964280109</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,6 +556,7 @@
     <MESSAGE value="18/01/2026" />
     <MESSAGE value="26/01/2026" />
     <MESSAGE value="Restart" />
-    <option name="LAST_COMMIT_MESSAGE" value="Restart" />
+    <MESSAGE value="20/03/2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/03/2026" />
   </component>
 </project>
